@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🤔  I’m looking for help with optimizing performance in web applications and staying up-to-date with the latest trends in frontend development.
 - 💬 Ask me about frontend development, responsive design, and modern JavaScript frameworks like React.
 - 📫 How to reach me: jokarparia7@gmail.com
-- 
+  
 
