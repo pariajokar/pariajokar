@@ -8,8 +8,10 @@ Here are some ideas to get you started:
 - 🤔  I’m looking for help with optimizing performance in web applications and staying up-to-date with the latest trends in frontend development.
 - 💬 Ask me about frontend development, responsive design, and modern JavaScript frameworks like React.
 - 📫 How to reach me: jokarparia7@gmail.com
+
   
-- <span style="color: #3498db; background-color: #ecf0f1; padding: 5px; border-radius: 3px;">HTML</span>
+-----------------------------------------
+
 
 ## 👩‍💻 Skills
 <div>
@@ -28,3 +30,19 @@ Here are some ideas to get you started:
  <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
  <img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"/>
 </div>
+
+
+-----------------------------------------
+
+
+
+For Job offers 👨🏻‍💻
+
+- You can contact me via 👇🏼
+
+- ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) → **jokarparia7@gmail.com**
+
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) → **@Pariaa_pj**
+
+- ![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) → ***paria jokar***
+
