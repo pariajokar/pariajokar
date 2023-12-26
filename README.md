@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**pariajokar/pariajokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Raahbar Informatic Services Holding as frontend developer
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about frontend development, responsive design, and modern JavaScript frameworks like React.
 - 📫 How to reach me: jokarparia7@gmail.com
 - 
--->
+
