@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jokarparia7@gmail.com
 
   
------------------------------------------
+-------------------------
 
 
 ## 👩‍💻 Skills
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 
------------------------------------------
+-------------------------
 
 
 
