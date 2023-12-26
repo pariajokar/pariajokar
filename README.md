@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about frontend development, responsive design, and modern JavaScript frameworks like React.
 - 📫 How to reach me: jokarparia7@gmail.com
   
-- <span style="color: #3498db; background-color: #ecf0f1; padding: 5px; border-radius: 3px;">HTML</span><code> GitHub</code>
+- <span style="color: #3498db; background-color: #ecf0f1; padding: 5px; border-radius: 3px;">HTML</span>
