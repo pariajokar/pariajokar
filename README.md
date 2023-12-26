@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jokarparia7@gmail.com
   
 
-<code>git commit</code>
+<code> <i class="fab fa-github"></i> GitHub</code>
